@@ -10,6 +10,11 @@
       "StackName": "amplify-weddingplanner-dev-155920",
       "StackId": "arn:aws:cloudformation:us-west-1:497157325286:stack/amplify-weddingplanner-dev-155920/c5388730-a8d5-11ed-b6a6-02062e61bfb7",
       "AmplifyAppId": "d3eluh2u6wi94p"
+    },
+    "categories": {
+      "api": {
+        "weddingplanner": {}
+      }
     }
   }
 }
